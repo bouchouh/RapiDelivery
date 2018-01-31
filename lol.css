@@ -1,0 +1,38 @@
+#body { 
+background-color: rgb(54, 95, 146);
+ }
+
+ #colonne1
+
+{ margin: auto;
+
+   width:140px; 
+
+   height:100px; 
+
+   float:left;
+
+}
+
+ 
+
+#colonne2
+
+{ margin: auto;
+
+   width:140px; 
+
+   height:60px; 
+
+   background-color:#0033CC; 
+
+   float:right;
+
+}
+
+a {
+    display: block;
+    color: rgb(0,0,0);
+    background-color: rgb(255,255,255);
+    margin: auto;
+}
